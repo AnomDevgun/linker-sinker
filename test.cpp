@@ -1,3 +1,7 @@
+/*
+PROGRAMMER : ANOM DEVGUN
+*/
+
 #include<iostream>   //input output stream(contains cin and cout)
 #include<fstream>  //filestream, used for filehandeling operations
 #include<cctype>  //character conversion example: small character to capital
